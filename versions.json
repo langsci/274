@@ -1,7 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Language and scientific explanation: Where does semantics fit in?",
-		"authors": [{"name": "Eran Asoulin"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2020-05-06T20:51:23.000Z"}
-	]
-}
+{"versions": [{"authors": [{"name": "Eran Asoulin"}], "title": "Language and scientific explanation: Where does semantics fit in?", "publishedAt": "2020-05-06T20:51:23.000Z", "license": "CC-BY-4.0", "versiontype": "proofreading"}, {"title": "Language and scientific explanation: Where does semantics fit in?", "versiontype": "first_edition", "license": "CC-BY-4.0", "publishedAt": "2020-07-28T10:35:50.605183", "authors": [{"name": "Eran Asoulin"}]}]}
